@@ -12,7 +12,7 @@ answering questions from a bunch of policy documents.
 
 ## 3. Document
 
-1. The policy documents can be found [here](./Policy+Documents)
+1. The policy documents can be found [here](./Policy_Documents)
 
 ## 4. Approach
 
