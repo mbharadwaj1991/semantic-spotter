@@ -1,4 +1,4 @@
-# Semantic Spotter Project Submission
+# Semantic Spotter
 
 ## 1. Background
 
