@@ -110,7 +110,7 @@ The LangChain framework revolves around the following building blocks:
 ## 7. Prerequisites
 
 - Python 3.7+
-- langchain 0.3.13
+- langchain 0.3.19
 - Please ensure that you add your OpenAI API key to the empty text file named "OpenAI_API_Key.txt" in order to access
   the
   OpenAI API.
